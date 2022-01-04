@@ -1,9 +1,9 @@
 # Setup
-title:               Kaden Uhlig's thoughts
-tagline:             'A place for me to gather my thoughts, experiences and ideas'
-description:         'Kaden Uhlig&quote;s personal blog. A place for me to gather my thoughts, experiences and ideas, and hopefully share them with others. Let me know if you enjoy it!'
+title:               Kaden Uhlig
+tagline:             'A place to gather my thoughts, experiences and ideas'
+description:         'Kaden Uhlig&rsquo;s personal blog. A place for me to gather my thoughts, experiences and ideas &ndash; and hopefully share them with others.'
 url:                 https://numeri.github.io
-baseurl:             'https://numeri.github.io/'
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 
