@@ -1,4 +1,11 @@
-# Released under MIT License
+# Blog Content
+Copyright (c) 2021 Kaden Uhlig, All rights reserved.
+
+# Blog Jekyll Theme
+## Source
+The theme used by this blog is a customized version of the [Lanyon](https://lanyon.getpoole.com/) Jekyll theme. To use it yourself, take a look at its [GitHub repo](https://github.com/poole/lanyon).
+
+## Released under MIT License
 
 Copyright (c) 2014 Mark Otto.
 
