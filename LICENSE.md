@@ -1,5 +1,5 @@
 # Blog Content
-Copyright (c) 2021 Kaden Uhlig, All rights reserved.
+Copyright (c) 2022 Kaden Uhlig, All rights reserved.
 
 # Blog Jekyll Theme
 ## Source
